@@ -1,4 +1,4 @@
-### Hi there, I'm Cirkoooooo
+### Hi there, I'm Circkoooooo.
 
 🏫 I'm a student in China.
 
