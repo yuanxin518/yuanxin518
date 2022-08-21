@@ -2,4 +2,4 @@
 
 🏫 I'm a student in college.
 
-I use typescript to develop mostly.
+Most of the time i use typescript to develop.
