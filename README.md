@@ -8,7 +8,7 @@
 |功能|名字|
 |---|---|
 |主题|one dark pro[marker]|
-|文件图标|Material Icon Theme|
+|文件图标|VSCode Great Icons|
 |错误提示|Error Lens|
 |自动补全文件名|Path Intellisense|
 |React语法|Reactjs code snippets/React code snippets/ES7 + React,Redux.../Typescript React code snippets|
