@@ -7,6 +7,7 @@
 
 |功能|名字|
 |---|---|
+|喜欢的颜色|#0CA678|
 |主题|one dark pro[marker]|
 |文件图标|VSCode Great Icons|
 |错误提示|Error Lens|
