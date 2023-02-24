@@ -19,5 +19,3 @@
 |代码规范插件|ESLint/ESLint Chinesse Rules/Prettier|
 |右下角翻译|翻译(英汉词典)|
 |javascript语法高亮|Babel Javascipt|
-
-![](https://api.uomg.com/api/rand.img3)
