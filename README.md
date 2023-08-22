@@ -7,6 +7,7 @@
 
 |功能|名字|
 |---|---|
+|字体|Jetbrains Memo|
 |常用色|#0CA678 #3178c6|
 |主题|Atom theme, one dark pro[Darker]|
 |文件图标|VSCode Great Icons|
