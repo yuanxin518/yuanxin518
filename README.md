@@ -7,16 +7,11 @@
 
 |功能|名字|
 |---|---|
-|字体|Jetbrains Mono|
-|常用色|#0CA678 #3178c6|
-|主题|one dark pro|
-|文件图标|VSCode Great Icons|
-|错误提示|Error Lens|
-|自动补全文件名|Path Intellisense|
-|React语法|Reactjs code snippets/React code snippets/ES7 + React,Redux.../Typescript React code snippets|
-|Git|Git History/GitLens|
-|JSON|Prettify JSON|
+|字体|Input Mono, Jetbrains Mono|
+|主题|Bluloco Light, Eva|
+|文件图标|Catppuccin Mocha ,VSCode Great Icons|
+|内联错误提示|Error Lens|
+|React语法拓展|Reactjs code snippets/React code snippets/ES7 + React,Redux.../Typescript React code snippets|
+|Git|Git History, GitLens, Git Graph|
 |末尾空格显色|Trailing spaces|
-|代码规范插件|ESLint/ESLint Chinesse Rules/Prettier|
 |右下角翻译|翻译(英汉词典)|
-|javascript语法高亮|Babel Javascipt|
